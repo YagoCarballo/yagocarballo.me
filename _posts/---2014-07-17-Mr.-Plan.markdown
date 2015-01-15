@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2014-12-01
+img: cake.png
+alt: image-alt
+project-date: <a href="#">March 2015</a>
+client: <a href="http://www.mrplan.me">MR. Plan</a>
+category: <a href="#">App Development</a>
+description: Mr. Plan is a productivity App for Smartphones based on GTD lists "Getting Things Done". With that you can get organized in a more effective way.<br /><br /><a href="http://www.mrplan.me">Mr. Plan Website</a>
+
+---
