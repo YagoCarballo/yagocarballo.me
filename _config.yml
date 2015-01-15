@@ -20,6 +20,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: linkedin
+    url: http://uk.linkedin.com/in/yagocarballo/
   - title: twitter
     url: http://twitter.com/_YagoCarballo
   - title: bitbucket 
