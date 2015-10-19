@@ -28,6 +28,8 @@ social:
     url: http://bitbucket.org/yagocarballo
   - title: github
     url: http://github.com/yagocarballo
+  - title: gitlab
+    url: http://gitlab.com/yagocarballo
 
 # Postal address (add as many lines as necessary)
 address:
@@ -36,8 +38,9 @@ address:
   - line: Vigo, Pontevedra 36213, España
   - line: 
   - line: <b>United Kingdom</b>
-  - line: The Hub, 17 Hawkhill
-  - line: DD1 5DL, Dundee, UK
+  - line: Flat 39, Peterson House
+  - line: 25 Roseangle
+  - line: DD1 4LS, Dundee, UK
   
 # Credits content
 credits: 'Feel free to contact me at <a href="mailto:yagocarballo@gmail.com">yagocarballo@gmail.com</a>'
