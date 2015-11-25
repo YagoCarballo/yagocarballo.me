@@ -32,15 +32,15 @@ social:
     url: http://gitlab.com/yagocarballo
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: <b>Spain</b>
-  - line: Subida a Costa Castrelos Nº10
-  - line: Vigo, Pontevedra 36213, España
-  - line: 
-  - line: <b>United Kingdom</b>
-  - line: Flat 39, Peterson House
-  - line: 25 Roseangle
-  - line: DD1 4LS, Dundee, UK
+# address:
+#   - line: <b>Spain</b>
+#   - line: Subida a Costa Castrelos Nº10
+#   - line: Vigo, Pontevedra 36213, España
+#   - line:
+#   - line: <b>United Kingdom</b>
+#   - line: Flat 39, Peterson House
+#   - line: 25 Roseangle
+#   - line: DD1 4LS, Dundee, UK
   
 # Credits content
 credits: 'Feel free to contact me at <a href="mailto:yagocarballo@gmail.com">yagocarballo@gmail.com</a>'
